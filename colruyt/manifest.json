@@ -1,0 +1,7 @@
+{
+    "name": "Colruyt",
+    "note": "Carte Xtra Colruyt",
+    "logo_path": "/static/cards/colruyt/logo.png",
+    "types": ["fidelity", "grocery"],
+    "formats": ["EAN13", "QR"]
+}
